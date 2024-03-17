@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Mouse
+- 👋 Hi, I’m Mouse 
 - 👀 I’m interested in Bug Bounty
 - 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me IG:@mouse.annon
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: With great power, comes great opportunity
+- ⚡ Fun fact: With great power, comes great responsibility
 
 <!---
 mouseannon/mouseannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
