@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mouse 
+- 👋 Hi, I’m Nelson Kipkorir
 - 👀 I’m interested in Automation/Development ( JavaScript, Python & Bash)
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me IG:@mouse.annon
+- 📫 How to reach me IG:@neil.sohn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: With great power, comes great responsibility
 
