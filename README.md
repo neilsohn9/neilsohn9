@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nelson Kipkorir
+- 👋 Hi, I’m Nelson Kipsang
 - 👀 I’m interested in Automation/Development ( JavaScript, Python & Bash)
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source projects
